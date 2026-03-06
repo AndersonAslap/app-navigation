@@ -28,7 +28,8 @@ npx expo install react-native-screens react-native-safe-area-context
 
 > Instalando o stack navigation
 
-- Para usar o stack navigation precisamos instalar @react-navigation/native-stack
+- Para usar o stack navigation precisamos instalar @react-navigation/native-stack, a native-stack é mais 
+performática que a stack.
 
 ```bash
 npm install @react-navigation/native-stack
@@ -40,6 +41,15 @@ npm install @react-navigation/native-stack
 npm install @react-navigation/elements
 ```
 
+- Para que o react navigation funcione bem com as tipagens é necessário configurar o strict mode no typescript.
+
+```json
+{
+  "compilerOptions": {
+    "strict": true,
+  }
+}
+```
 
 # Configurações
 
