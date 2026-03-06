@@ -279,11 +279,3 @@ app-navigation
  │   ├─ build.gradle
  │   ├─ local.properties  ← AQUI
 ```
-
----
-
-✅ Com isso o projeto deve executar normalmente no Android.
-
----
-
-Se quiser, também posso te mostrar **3 melhorias que fazem seu README parecer de projeto open source profissional no GitHub** (badge, preview da aplicação e estrutura de pastas).
