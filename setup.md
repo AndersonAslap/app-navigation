@@ -14,6 +14,8 @@ npx expo run:android
 
 # Configurações
 
+> Adicionando typescript
+
 mudar o arquivo App.js para App.tsx e executar a aplicação 
 assim que é executado o expo pergunta se é um projeto typescript 
 e se deseja instalar o typescript, se sim, ele instala e configura 
