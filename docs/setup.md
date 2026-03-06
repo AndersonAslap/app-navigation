@@ -1,13 +1,3 @@
-Aqui está uma **versão melhorada do seu README**, mantendo **todo o conteúdo original**, mas com:
-
-* melhor **organização**
-* **hierarquia de títulos**
-* explicações mais claras
-* padronização de blocos de código
-* melhor legibilidade
-
----
-
 # 📱 App Navigation (Expo + React Navigation)
 
 Este projeto demonstra a implementação dos principais tipos de navegação no **React Native com Expo**, utilizando o **React Navigation**.
