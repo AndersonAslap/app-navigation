@@ -366,3 +366,7 @@ A navegação é um dos pilares fundamentais no desenvolvimento de aplicações 
 O **React Navigation** oferece ferramentas flexíveis para implementar diferentes estratégias de navegação, permitindo que desenvolvedores escolham a abordagem mais adequada para cada tipo de aplicação.
 
 Compreender as diferenças entre **Stack**, **Tabs** e **Drawer** é essencial para projetar interfaces intuitivas e eficientes, garantindo que os usuários consigam navegar pelo aplicativo de forma natural e fluida.
+
+## 🔗 Links úteis
+
+- [React Navigation](https://reactnavigation.org/) — Biblioteca para gerenciamento de navegação em aplicações React Native.

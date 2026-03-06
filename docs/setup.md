@@ -12,6 +12,35 @@ whats is your name app named? app-navigation
 npx expo run:android
 ```
 
+> Instalando React Navigation 
+
+- O @react-navigation/native pacote contém a funcionalidade principal do React Navigation.
+
+```bash
+npm install @react-navigation/native
+```
+
+- Em seguida, instale as dependências usadas pela maioria dos navegadores: react-native-screense react-native-safe-area-context (Isso instalará versões dessas bibliotecas que são compatíveis com a sua versão do Expo SDK.).
+
+```bash
+npx expo install react-native-screens react-native-safe-area-context
+```
+
+> Instalando o stack navigation
+
+- Para usar o stack navigation precisamos instalar @react-navigation/native-stack
+
+```bash
+npm install @react-navigation/native-stack
+```
+
+- instalando depêndências (A @react-navigation/elementsbiblioteca fornece componentes projetados para funcionar com o React Navigation.)
+
+```bash
+npm install @react-navigation/elements
+```
+
+
 # Configurações
 
 > Adicionando typescript
